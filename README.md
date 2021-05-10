@@ -7,9 +7,12 @@ A folder crawler in python3
 **For Linux**
 
 ```
+
  ~ ❯❯❯ git clone https://github.com/back-2-hack/BCrawler.git
  
  ~ ❯❯❯ cd  BCrawler
+ 
+ ~ ❯❯❯ sudo -H pip3 install -r requirements.txt
  
  ~ ❯❯❯ sudo python3 setup.py install
 ```
@@ -20,6 +23,8 @@ A folder crawler in python3
  ~ ❯❯❯ git clone https://github.com/back-2-hack/BCrawler.git
  
  ~ ❯❯❯ cd  BCrawler
+ 
+ ~ ❯❯❯ sudo -H pip3 install -r requirements.txt
 
  ~ ❯❯❯ python3 setup.py install
 ```
