@@ -1,7 +1,7 @@
 # BCrawler
 A folder crawler in python3
 
-##Installation
+## Installation
 **For Linux**
 
 ```
