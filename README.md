@@ -3,7 +3,7 @@ A folder crawler in python3
 
 <br/>
 
-* ## Installation
+## Installation
 **For Linux**
 
 ```
