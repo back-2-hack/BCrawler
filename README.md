@@ -12,7 +12,7 @@ A folder crawler in python3
  
  ~ ❯❯❯ cd  BCrawler
  
- ~ ❯❯❯ sudo -H pip3 install -r requirements.txt
+ ~ ❯❯❯ sudo pip3 install -r requirements.txt
  
  ~ ❯❯❯ sudo python3 setup.py install
 ```
@@ -24,7 +24,7 @@ A folder crawler in python3
  
  ~ ❯❯❯ cd  BCrawler
  
- ~ ❯❯❯ sudo -H pip3 install -r requirements.txt
+ ~ ❯❯❯ pip3 install -r requirements.txt
 
  ~ ❯❯❯ python3 setup.py install
 ```
