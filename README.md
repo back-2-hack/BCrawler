@@ -35,7 +35,7 @@ A folder crawler in python3
 ```
  ~ ❯❯❯ pip3 install BCrawler
 ```
-
+\n
 
 ## How to use / Documentation
 
