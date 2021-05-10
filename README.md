@@ -1,6 +1,8 @@
 # BCrawler
 A folder crawler in python3
 
+<br/>
+
 ## Installation
 **For Linux**
 
@@ -21,6 +23,8 @@ A folder crawler in python3
 
  ~ ❯❯❯ python3 setup.py install
 ```
+
+<br/>
 
 ## Installation with pip
 
