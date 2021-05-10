@@ -21,7 +21,7 @@ A folder crawler in python3
  ~ ❯❯❯ python3 setup.py install
 ```
 
-##Installation with pip
+## Installation with pip
 
 ```
  ~ ❯❯❯ pip3 install BCrawler
