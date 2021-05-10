@@ -1,7 +1,8 @@
 # BCrawler
 A folder crawler in python3
 
-**Linux**
+##Installation
+**For Linux**
 
 ```
  ~ ❯❯❯ git clone https://github.com/back-2-hack/BCrawler.git
@@ -11,7 +12,7 @@ A folder crawler in python3
  ~ ❯❯❯ sudo python3 setup.py install
 ```
 
-**Windows**
+**For Windows**
 
 ```
  ~ ❯❯❯ git clone https://github.com/back-2-hack/BCrawler.git
@@ -22,6 +23,14 @@ A folder crawler in python3
 ```
 
 ## Installation with pip
+
+**For Linux**
+
+```
+ ~ ❯❯❯ sudo pip3 install BCrawler
+```
+
+**For Windows**
 
 ```
  ~ ❯❯❯ pip3 install BCrawler
