@@ -55,7 +55,7 @@ A folder crawler in python3
 ```
 from bcrawler import *
 
-files = bcrawler.crawl('path/of/your/folder')
+files = bcrawler().crawl('path/of/your/folder')
 #type(files) = list
 
 print(files)
