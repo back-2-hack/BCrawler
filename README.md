@@ -1,5 +1,5 @@
 # BCrawler
-A folder crawler in python3
+A folder crawler library in python3
 
 <br/>
 
