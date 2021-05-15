@@ -63,5 +63,5 @@ print(files)
 ### Output
 
 ```
-['file1.x','file2.x']
+['path/of/your/folder/file1.x','path/of/your/folder/file2.x']
 ```
