@@ -56,8 +56,12 @@ A folder crawler library in python3
 from bcrawler import *
 
 files = bcrawler().crawl('path/of/your/folder')
-#type(files) = list
 
 print(files)
 
+```
+### Output
+
+```
+['file1.x','file2.x']
 ```
